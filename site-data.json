@@ -2,31 +2,31 @@
   "business": {
     "name": "Cepeda Creative Decor",
     "shortName": "Cepeda Creative",
-    "tagline": "Expert Custom Carpentry & Woodwork in Dallas",
+    "tagline": "Custom Carpentry That Transforms Your Dallas Home",
     "niche": "Carpenter",
     "phone": "(972) 922-4991",
     "address": "3324 Dilido Rd, Dallas, TX 75228",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 8:00 AM - 5:00 PM, Sat by appointment",
-    "ctaLabel": "Request a Free Quote",
+    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 3:00 PM",
+    "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Cepeda Creative Decor | Expert Custom Carpentry in Dallas, TX",
-    "description": "Dallas's trusted custom carpenter. We build beautiful, durable furniture, cabinetry, and trim. Free consultation. Call (972) 922-4991."
+    "title": "Cepeda Creative Decor | Expert Carpenter in Dallas, TX | Custom Woodwork",
+    "description": "Cepeda Creative Decor offers professional carpentry services in Dallas, TX. From custom furniture to kitchen cabinets, we bring your vision to life. Call (972) 922-4991 for a free quote."
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Premier Custom Carpenter",
-      "headline": "Transform Your Space with Expert Woodwork",
-      "subheadline": "From custom furniture to kitchen cabinets, we craft lasting beauty with precision and care.",
-      "primaryCta": "Get a Free Quote",
+      "eyebrow": "Dallas's Trusted Carpentry Experts",
+      "headline": "Bringing Your Woodworking Dreams to Life",
+      "subheadline": "Custom furniture, cabinetry, and home renovations crafted with precision and care. Serving Dallas homeowners and businesses since 2010.",
+      "primaryCta": "Get Your Free Quote",
       "secondaryCta": "See Our Work"
     },
     "stats": [
       {
         "value": "15+",
-        "label": "Years Experience"
+        "label": "Years of Experience"
       },
       {
         "value": "500+",
@@ -44,113 +44,113 @@
     "featureSections": [
       {
         "eyebrow": "Custom Furniture",
-        "title": "One-of-a-Kind Pieces Built to Last",
-        "body": "We design and build custom furniture that fits your style and space perfectly. Every joint, finish, and curve is crafted with meticulous attention to detail.",
+        "title": "One-of-a-Kind Pieces for Your Home",
+        "body": "From rustic farmhouse tables to modern shelving, we design and build furniture that fits your style and space perfectly. Every piece is handcrafted using premium materials.",
         "bullets": [
-          "Bespoke tables, chairs, shelves, and more",
-          "Premium hardwoods and durable finishes",
-          "Designed to match your décor and needs"
+          "Bespoke designs tailored to your preferences",
+          "Solid wood and eco-friendly options available",
+          "Built to last with expert joinery"
         ],
         "reverse": false,
-        "cardLabel": "Popular",
-        "cardTitle": "Custom Dining Tables",
-        "cardBody": "Handcrafted from solid oak or walnut, our tables become the centerpiece of your home."
+        "cardLabel": "Featured Project",
+        "cardTitle": "Custom Dining Table",
+        "cardBody": "A 10-seat live-edge walnut table crafted for a family in Lakewood. Features hand-carved legs and a durable satin finish."
       },
       {
-        "eyebrow": "Cabinetry & Trim",
-        "title": "Flawless Cabinetry and Millwork",
-        "body": "Elevate your kitchen, bathroom, or entire home with custom cabinetry and trim. We create seamless storage solutions that add value and elegance.",
+        "eyebrow": "Kitchen & Bath",
+        "title": "Transform Your Space with Custom Cabinetry",
+        "body": "Your kitchen and bathroom deserve the best. We build custom cabinets that maximize storage and elevate the look of your home. From design to installation, we handle it all.",
         "bullets": [
-          "Kitchen and bathroom cabinets",
-          "Crown molding, wainscoting, and baseboards",
-          "Built-in shelving and entertainment centers"
+          "Fully custom cabinet designs",
+          "Soft-close hinges and dovetail drawers",
+          "Professional installation included"
         ],
         "reverse": true,
-        "cardLabel": "Featured",
-        "cardTitle": "Kitchen Cabinet Refacing",
-        "cardBody": "Give your kitchen a brand-new look without the cost of full replacement."
+        "cardLabel": "Client Favorite",
+        "cardTitle": "Modern Kitchen Remodel",
+        "cardBody": "Shaker-style cabinets with quartz countertops and under-cabinet lighting. Completed in just 3 weeks in a Preston Hollow home."
       }
     ],
     "whyTitle": "Why Choose Cepeda Creative Decor?",
     "whyChooseUs": [
       {
-        "title": "Master Craftsmanship",
-        "description": "Every project is built with time-honored techniques and premium materials, ensuring durability and beauty."
+        "title": "Custom Craftsmanship",
+        "description": "Every project is designed and built specifically for you. No cookie-cutter solutions—just unique woodwork that reflects your taste."
       },
       {
-        "title": "Personalized Design",
-        "description": "We collaborate closely with you to create pieces that reflect your vision and fit your space perfectly."
+        "title": "Premium Materials",
+        "description": "We source the finest hardwoods, plywoods, and finishes to ensure durability and beauty. Your investment lasts for decades."
       },
       {
         "title": "Reliable & On Time",
-        "description": "We respect your schedule and deliver projects on time, with clear communication every step of the way."
+        "description": "We respect your schedule. Our team completes projects on time and within budget, with clear communication every step of the way."
       },
       {
-        "title": "Competitive Pricing",
-        "description": "Get exceptional quality at fair, transparent prices. No hidden fees, no surprises."
+        "title": "Full-Service Experience",
+        "description": "From initial consultation to final installation, we handle everything. You get a single point of contact and a stress-free process."
       }
     ],
     "testimonials": [
       {
-        "quote": "Cepeda Creative built a custom bookshelf that completely transformed our living room. The craftsmanship is outstanding and they were a pleasure to work with.",
-        "author": "Maria L.",
-        "role": "Lakewood Homeowner"
+        "quote": "Cepeda Creative built a custom bookshelf for our living room. The craftsmanship is incredible—it looks like it's always been part of the house. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Lakewood homeowner"
       },
       {
-        "quote": "We hired them for kitchen cabinets and couldn't be happier. The attention to detail and quality of the woodwork exceeded our expectations.",
+        "quote": "We hired them for a full kitchen remodel. The cabinets are gorgeous and the team was professional, punctual, and tidy. Couldn't be happier.",
         "author": "James R.",
-        "role": "Oak Lawn Resident"
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "Professional, punctual, and incredibly talented. Our custom dining table is a work of art. Highly recommend!",
-        "author": "Sarah K.",
-        "role": "Preston Hollow Homeowner"
+        "quote": "I needed a unique desk for my home office. They listened to my ideas and created something even better than I imagined. Fair pricing too.",
+        "author": "Emily T.",
+        "role": "Bishop Arts District"
       }
     ],
     "cta": {
       "headline": "Ready to Start Your Project?",
-      "subheadline": "Contact us today for a free consultation and estimate.",
-      "primaryCta": "Call (972) 922-4991",
-      "secondaryCta": "Get a Free Quote"
+      "subheadline": "Contact us today for a free consultation and quote. Let's create something beautiful together.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "(972) 922-4991"
     }
   },
   "servicesPage": {
-    "intro": "From concept to completion, our carpentry services bring your vision to life. We specialize in custom furniture, cabinetry, trim work, and outdoor structures built with precision and passion."
+    "intro": "At Cepeda Creative Decor, we offer a full range of carpentry services for homes and businesses in Dallas. Whether you need custom furniture, kitchen cabinets, or outdoor structures, our skilled team delivers exceptional quality and design. Explore our services below."
   },
   "services": [
     {
       "icon": "01",
       "title": "Custom Furniture",
-      "shortDescription": "Bespoke tables, chairs, beds, and more, designed to your taste.",
-      "longDescription": "We craft heirloom-quality furniture that fits your style and space. Using select hardwoods and fine finishes, each piece is built to last a lifetime.",
+      "shortDescription": "Handcrafted tables, chairs, beds, and more—designed to your exact specifications.",
+      "longDescription": "Our custom furniture service brings your vision to life. From elegant dining tables to functional bookshelves, we use traditional joinery and modern techniques to create pieces that are both beautiful and durable. Every project starts with a consultation to understand your style, space, and needs.",
       "benefits": [
-        "Unique design tailored to your home",
-        "Premium materials and expert joinery",
-        "Long-lasting durability and timeless style",
-        "Perfect fit for awkward or special spaces"
+        "Unique designs that match your decor",
+        "High-quality solid wood construction",
+        "Built to last with heirloom-quality craftsmanship",
+        "Eco-friendly material options available"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We discuss your ideas, measurements, and preferences to create a design plan."
+          "description": "We meet with you to discuss your ideas, measure your space, and recommend materials and designs."
         },
         {
           "title": "Design & Approval",
-          "description": "We provide detailed drawings and material samples for your approval."
+          "description": "We create detailed drawings and a 3D model for your approval before any wood is cut."
         },
         {
-          "title": "Crafting & Installation",
-          "description": "Our team builds your piece with care and installs it seamlessly in your home."
+          "title": "Build & Delivery",
+          "description": "Our craftsmen build your piece in our workshop, then deliver and install it in your home."
         }
       ],
       "faqs": [
         {
-          "question": "What types of wood do you use?",
-          "answer": "We work with oak, maple, walnut, cherry, and more. We can also source speciality woods upon request."
+          "question": "How long does it take to build a custom piece of furniture?",
+          "answer": "Timelines vary by complexity, but most pieces are completed within 2-4 weeks. We'll provide a specific timeline during the consultation."
         },
         {
-          "question": "How long does a custom furniture project take?",
-          "answer": "Typical projects take 2-6 weeks depending on complexity. We'll provide a timeline during consultation."
+          "question": "What types of wood do you use?",
+          "answer": "We work with a variety of hardwoods including oak, walnut, maple, cherry, and more. We also offer reclaimed and eco-friendly options."
         }
       ],
       "slug": "custom-furniture"
@@ -158,121 +158,121 @@
     {
       "icon": "02",
       "title": "Kitchen & Bath Cabinetry",
-      "shortDescription": "Custom cabinets that maximize storage and elevate your space.",
-      "longDescription": "Transform your kitchen or bathroom with cabinets designed to your exact specifications. We offer a wide range of styles, finishes, and storage solutions.",
+      "shortDescription": "Custom cabinets that maximize storage and elevate your kitchen or bathroom.",
+      "longDescription": "Transform your kitchen or bathroom with custom cabinetry from Cepeda Creative. We design and build cabinets that fit your space perfectly, offering endless options for style, finish, and storage solutions. Our team handles everything from demolition to installation, ensuring a seamless renovation experience.",
       "benefits": [
-        "Customized layout for optimal storage",
-        "Quality construction with soft-close hardware",
-        "Wide selection of door styles and finishes",
-        "Increased home value and functionality"
+        "Fully customized to your layout and style",
+        "Soft-close hardware and premium finishes",
+        "Maximized storage with pull-outs and organizers",
+        "Professional installation by our experienced team"
       ],
       "process": [
         {
-          "title": "Measurement & Design",
-          "description": "We take precise measurements and create a 3D design of your new cabinets."
+          "title": "Design Consultation",
+          "description": "We visit your home to take precise measurements and discuss your storage needs, style preferences, and budget."
         },
         {
-          "title": "Material Selection",
-          "description": "Choose from our premium wood species, paints, and stains to match your vision."
+          "title": "Cabinet Fabrication",
+          "description": "Using your approved design, we build your cabinets in our workshop with meticulous attention to detail."
         },
         {
-          "title": "Installation & Finishing",
-          "description": "Our team installs your cabinets with precision, ensuring a perfect fit and finish."
+          "title": "Installation & Finish",
+          "description": "Our crew installs the cabinets, ensures perfect alignment, and applies any final touches for a flawless result."
         }
       ],
       "faqs": [
         {
-          "question": "Do you offer refacing or just new cabinets?",
-          "answer": "We offer both! Refacing is a cost-effective option if your existing cabinets are in good condition."
+          "question": "Do you offer cabinet refacing or just new construction?",
+          "answer": "We specialize in new custom cabinets, but we can also reface existing cabinets if the structure is sound. Contact us to discuss your options."
         },
         {
-          "question": "What is the typical timeline for a kitchen remodel?",
-          "answer": "A full custom cabinet installation usually takes 4-8 weeks from design to completion."
+          "question": "How much do custom cabinets cost?",
+          "answer": "Costs vary based on size, materials, and complexity. We provide a detailed quote after the initial consultation, with no hidden fees."
         }
       ],
       "slug": "kitchen-bath-cabinetry"
     },
     {
       "icon": "03",
-      "title": "Trim & Millwork",
-      "shortDescription": "Elegant crown molding, wainscoting, and baseboards.",
-      "longDescription": "Add character and value to your home with custom trim and millwork. We install crown molding, wainscoting, chair rails, and custom built-ins with flawless precision.",
+      "title": "Outdoor Structures",
+      "shortDescription": "Custom decks, pergolas, and gazebos built to enhance your outdoor living space.",
+      "longDescription": "Extend your living space outdoors with custom-built structures from Cepeda Creative. Whether you want a relaxing pergola, a spacious deck, or a charming gazebo, we design and construct durable, weather-resistant features that complement your home and landscape.",
       "benefits": [
-        "Enhances architectural detail and charm",
-        "Seamless installation with perfect joints",
-        "Increases property value and appeal",
-        "Custom designs to match any period or style"
+        "Custom designs that suit your yard and lifestyle",
+        "Durable materials built for Texas weather",
+        "Seamless integration with existing landscaping",
+        "Increased home value and curb appeal"
       ],
       "process": [
         {
-          "title": "Design Consultation",
-          "description": "We review your space and recommend trim styles that complement your home."
+          "title": "Site Evaluation",
+          "description": "We assess your outdoor space, check for any grading or utility issues, and discuss your vision."
         },
         {
-          "title": "Material & Profile Selection",
-          "description": "Choose from various wood species and profiles to achieve your desired look."
+          "title": "Design & Permitting",
+          "description": "We create a plan and handle any necessary permits so you don't have to worry about regulations."
+        },
+        {
+          "title": "Construction & Cleanup",
+          "description": "Our team builds your structure efficiently, with minimal disruption to your yard, and cleans up thoroughly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you build structures that can withstand Dallas storms?",
+          "answer": "Yes, we use pressure-treated lumber and secure construction methods to ensure your structure is safe and durable."
+        },
+        {
+          "question": "How long does it take to build a deck?",
+          "answer": "Most decks are completed within 1-2 weeks, depending on size and complexity. We'll provide a timeline upfront."
+        }
+      ],
+      "slug": "outdoor-structures"
+    },
+    {
+      "icon": "04",
+      "title": "Trim & Crown Molding",
+      "shortDescription": "Elegant trim work that adds character and value to any room.",
+      "longDescription": "Add architectural interest to your home with custom trim and crown molding. Our skilled carpenters install baseboards, chair rails, wainscoting, and crown molding with precision. We match existing styles or create new profiles to enhance your interior design.",
+      "benefits": [
+        "Professional installation with seamless joints",
+        "Wide variety of profiles and wood species",
+        "Can match historic or modern styles",
+        "Increases home value and aesthetic appeal"
+      ],
+      "process": [
+        {
+          "title": "Measurement & Material Selection",
+          "description": "We measure your rooms and help you choose molding profiles and wood types that fit your budget and style."
+        },
+        {
+          "title": "Custom Milling",
+          "description": "We mill the molding to your exact specifications, ensuring perfect fit and finish."
         },
         {
           "title": "Installation & Touch-Up",
-          "description": "Our carpenters install trim with precision, then caulk and touch up for a flawless finish."
+          "description": "Our team installs the trim with precision, fills nail holes, and applies caulk for a polished look."
         }
       ],
       "faqs": [
         {
           "question": "Can you match existing trim in my home?",
-          "answer": "Yes, we can replicate or complement existing trim profiles to ensure a cohesive look."
+          "answer": "Absolutely. We can replicate existing profiles or create a complementary design that blends seamlessly."
         },
         {
           "question": "Do you paint or stain the trim?",
-          "answer": "We can install primed trim ready for painting, or apply stain and finish for a natural wood look."
+          "answer": "We can install trim primed and ready for paint, or we can apply a finish coat if desired. Let us know your preference."
         }
       ],
-      "slug": "trim-millwork"
-    },
-    {
-      "icon": "04",
-      "title": "Outdoor Structures",
-      "shortDescription": "Custom decks, pergolas, and gazebos for your outdoor living.",
-      "longDescription": "Extend your living space outdoors with beautifully crafted structures. We build custom decks, pergolas, gazebos, and more using durable, weather-resistant materials.",
-      "benefits": [
-        "Creates functional outdoor living areas",
-        "Built to withstand Texas weather",
-        "Adds significant property value",
-        "Custom design to fit your yard and lifestyle"
-      ],
-      "process": [
-        {
-          "title": "Site Evaluation",
-          "description": "We assess your yard, sun exposure, and drainage to plan the perfect structure."
-        },
-        {
-          "title": "Design & Permitting",
-          "description": "We create detailed plans and handle any necessary permits."
-        },
-        {
-          "title": "Construction & Finishing",
-          "description": "Our team builds your structure with quality materials and finishes, ensuring longevity."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "What materials do you use for outdoor projects?",
-          "answer": "We use pressure-treated lumber, cedar, redwood, and composite materials for durability and beauty."
-        },
-        {
-          "question": "How long does a deck or pergola take to build?",
-          "answer": "Most projects are completed within 1-3 weeks, depending on size and complexity."
-        }
-      ],
-      "slug": "outdoor-structures"
+      "slug": "trim-crown-molding"
     }
   ],
   "about": {
-    "headline": "Crafting Quality Woodwork in Dallas Since 2008",
-    "mission": "To create beautiful, functional woodwork that enhances homes and lives through exceptional craftsmanship and personalized service.",
+    "headline": "Dallas's Premier Custom Carpentry Team",
+    "mission": "Our mission is to transform spaces through exceptional woodwork, combining traditional craftsmanship with modern design to create pieces that enrich our clients' lives.",
     "story": [
-      "Cepeda Creative Decor was founded by master carpenter Juan Cepeda, who brought his passion for woodworking from his family's workshop in Mexico to the heart of Dallas. For over 15 years, we have been serving homeowners and businesses across the metroplex, building a reputation for precision, creativity, and reliability.",
-      "Every project we undertake is a collaboration. We listen to your ideas, offer expert guidance, and pour our skill into every cut and finish. Whether it's a custom dining table, a kitchen renovation, or a backyard pergola, we treat your home as if it were our own."
+      "Cepeda Creative Decor was founded in 2010 by master carpenter Juan Cepeda, who started his career building furniture in his garage. With a passion for woodworking and an eye for detail, Juan quickly built a reputation for quality and reliability. Over the years, he assembled a team of skilled artisans who share his commitment to excellence.",
+      "Today, we serve homeowners and businesses across the Dallas-Fort Worth metroplex. Every project, from a simple shelf to a complete kitchen renovation, receives the same dedication and care. We believe in building relationships as strong as the furniture we create, and we're proud to be a trusted name in Dallas carpentry."
     ],
     "highlight": {
       "stat": "500+",
@@ -280,43 +280,41 @@
     },
     "coreValues": [
       {
-        "title": "Quality",
-        "description": "We never compromise on materials or workmanship. Every piece we build is made to last."
+        "title": "Craftsmanship",
+        "description": "We take pride in our work, using time-honored techniques and the finest materials to deliver exceptional results."
       },
       {
         "title": "Integrity",
-        "description": "Honest pricing, clear communication, and doing what we promise."
+        "description": "We communicate honestly, provide accurate quotes, and stand behind our work with a satisfaction guarantee."
       },
       {
-        "title": "Creativity",
-        "description": "We bring your unique vision to life with innovative design and expert execution."
+        "title": "Innovation",
+        "description": "We blend traditional woodworking with modern design and technology to create pieces that are both functional and beautiful."
       },
       {
         "title": "Community",
-        "description": "Proudly serving Dallas and supporting local suppliers and artisans."
+        "description": "We support local businesses and artisans, and we're committed to making Dallas a more beautiful place, one project at a time."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Ready to discuss your project? Call us or fill out the form below.",
+    "subheadline": "Ready to discuss your project? Call us or fill out the form below for a free consultation and quote.",
     "primaryCta": "Call (972) 922-4991",
-    "formCta": "Send Message",
+    "formCta": "Submit Request",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
-      "Lakewood",
-      "Oak Lawn",
-      "Preston Hollow",
+      "Fort Worth",
       "Plano",
       "Garland",
-      "Mesquite",
-      "Richardson"
+      "Irving",
+      "Richardson",
+      "Addison",
+      "Carrollton"
     ]
   },
   "social_proof": {
-    "rating": null,
+    "rating": "",
     "reviews": null
   },
   "meta": {
